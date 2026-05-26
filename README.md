@@ -1,6 +1,6 @@
 # Pep's Albums
 
-A Vue 3 app showing Pep Guardiola's favourite albums and his reviews of them.
+A Vue 3 app showing Pep Guardiola's favourite albums and his reviews of them. Hits a couple of the backend endpoints. you can curl the others to check
 
 All reviews are taken from Pep's own words in this BBC Sport article:
 https://www.bbc.co.uk/sport/football/45918581
